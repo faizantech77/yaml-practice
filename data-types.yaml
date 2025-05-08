@@ -1,0 +1,4 @@
+is_active: true      # Boolean
+count: 10            # Integer
+price: 49.99         # Float
+nickname: null       # Null value
